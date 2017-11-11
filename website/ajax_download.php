@@ -1,0 +1,1 @@
+<?php require("../views/ajax/generate_link.php"); ?>
